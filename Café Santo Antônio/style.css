@@ -1,0 +1,37 @@
+body {
+    background-image: url(imagens/background.jpg);
+    margin: 0;
+}
+.principal {
+    width: 960px;
+    margin: auto;
+}
+header img {
+   display: block;
+}
+.primeira-seção {
+    background-color: whitesmoke;
+    padding: 60px;
+}
+.segunda-seção {
+    background-color: rgb(187, 148, 112);
+    padding: 60px;
+}
+.nossos-cafes {
+    background-color: whitesmoke;
+    padding: 15px 15px 15px 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.nossos-cafes h2
+{
+    margin: 0px;
+}
+footer {
+    background-color: rgb(80, 2, 2);
+    color: whitesmoke;
+}
+.endereço {
+    font-style: normal;
+    padding: 60px;
+}
